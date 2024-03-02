@@ -4,7 +4,7 @@ public class AddTwoNumbers {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("Adding two numbers and swapping");
+System.out.println("Adding two numbers and swapping and testing editing from editor");
 int x=10,y=30,z;
 z=x;
 x=y;
